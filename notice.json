@@ -1,0 +1,3 @@
+{
+  "notice": "✅ Improved Group Creator: Now with retry mechanism, better error handling, and detailed progress tracking. Each group creation has 10-15 seconds delay to prevent account restrictions. Failed groups will be retried automatically up to 3 times."
+}
